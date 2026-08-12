@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Request a Property Evaluation | Ohio Landcraft</title>
+  <meta name="description" content="Request a driveway, drainage, grading, clearing or property evaluation from Ohio Landcraft.">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container nav">
+    <a href="index.html" class="brand" aria-label="Ohio Landcraft home">
+      <span class="brand-mark">OL</span>
+      <span class="brand-copy"><strong>Ohio Landcraft</strong><span>Property solutions built to last</span></span>
+    </a>
+    <button class="mobile-toggle" aria-label="Toggle navigation" aria-expanded="false">☰</button>
+    <nav class="nav-links">
+      <a href="driveways.html">Driveways</a>
+      <a href="drainage.html">Drainage</a>
+      <a href="land-clearing.html">Land Clearing</a>
+      <a href="excavation-grading.html">Excavation & Grading</a>
+      <a href="projects.html">Projects</a>
+      <a href="about.html">About</a>
+    </nav>
+    <a class="btn btn-primary desktop-cta" href="evaluation.html">Request an Evaluation</a>
+  </div>
+</header>
+
+
+<main>
+  <section class="page-hero">
+    <div class="container">
+      <span class="eyebrow">Project intake</span>
+      <h1>Tell us what the property is doing.</h1>
+      <p class="lead">Start with the problem you see. Photos and an address can often tell us much more than a request for a specific service.</p>
+    </div>
+  </section>
+
+  <section class="section surface">
+    <div class="container grid grid-2">
+      <div>
+        <span class="eyebrow">Property evaluation</span>
+        <h2>You don't have to diagnose it first.</h2>
+        <p>Examples:</p>
+        <ul class="checklist">
+          <li>“My driveway keeps washing out.”</li>
+          <li>“Water sits near the house after rain.”</li>
+          <li>“I want to clear this hillside without destroying it.”</li>
+          <li>“I'm building a garage and need to figure out the pad and drainage.”</li>
+        </ul>
+        <p class="muted small">The form below is front-end only in this starter version. Connect it later to Formspree, Basin, HubSpot, Airtable, a custom API or another CRM workflow.</p>
+      </div>
+
+      <div class="card">
+        <form id="evaluation-form">
+          <div id="form-success" class="notice" hidden style="margin-bottom:18px">
+            Thanks — this demo form is working on the front end. Connect it to your preferred form or CRM service before launch.
+          </div>
+          <div class="form-grid">
+            <div class="field">
+              <label for="name">Name</label>
+              <input id="name" name="name" autocomplete="name" required>
+            </div>
+            <div class="field">
+              <label for="phone">Phone</label>
+              <input id="phone" name="phone" autocomplete="tel" required>
+            </div>
+            <div class="field full">
+              <label for="email">Email</label>
+              <input id="email" name="email" type="email" autocomplete="email">
+            </div>
+            <div class="field full">
+              <label for="address">Property address or nearest road</label>
+              <input id="address" name="address" autocomplete="street-address">
+            </div>
+            <div class="field">
+              <label for="service">What do you need help with?</label>
+              <select id="service" name="service">
+                <option>I'm not sure yet</option>
+                <option>Driveway</option>
+                <option>Drainage</option>
+                <option>Land clearing</option>
+                <option>Excavation / grading</option>
+                <option>Building / site preparation</option>
+                <option>Multiple items</option>
+              </select>
+            </div>
+            <div class="field">
+              <label for="issue">What is happening?</label>
+              <select id="issue" name="issue">
+                <option>Potholes / rutting</option>
+                <option>Washouts / erosion</option>
+                <option>Standing water</option>
+                <option>Mud / soft ground</option>
+                <option>Overgrowth</option>
+                <option>Access problem</option>
+                <option>Preparing for construction</option>
+                <option>Other</option>
+              </select>
+            </div>
+            <div class="field full">
+              <label for="details">Describe the property problem</label>
+              <textarea id="details" name="details" placeholder="What happens, when does it happen, and what would you like the finished property to do?"></textarea>
+            </div>
+            <div class="field full">
+              <label for="photos">Photos</label>
+              <input id="photos" name="photos" type="file" accept="image/*" multiple>
+              <span class="form-note">Photo upload will require a form backend before launch.</span>
+            </div>
+            <div class="field full">
+              <label for="timing">When are you hoping to complete the work?</label>
+              <select id="timing" name="timing">
+                <option>Just researching</option>
+                <option>As soon as practical</option>
+                <option>Within 1–2 months</option>
+                <option>Within 3–6 months</option>
+                <option>Later / planning ahead</option>
+              </select>
+            </div>
+            <div class="field full">
+              <button class="btn btn-primary" type="submit">Send Property Evaluation Request →</button>
+            </div>
+          </div>
+        </form>
+      </div>
+    </div>
+  </section>
+</main>
+
+
+<footer>
+  <div class="container">
+    <div class="footer-grid">
+      <div>
+        <h3>Ohio Landcraft</h3>
+        <p>Driveways, drainage, grading, clearing and property improvements approached as one connected system.</p>
+        <p class="small">Serving Central and Southeast Ohio.</p>
+      </div>
+      <div>
+        <strong>Services</strong>
+        <div class="footer-links" style="margin-top:12px">
+          <a href="driveways.html">Driveways</a>
+          <a href="drainage.html">Drainage</a>
+          <a href="land-clearing.html">Land Clearing</a>
+          <a href="excavation-grading.html">Excavation & Grading</a>
+        </div>
+      </div>
+      <div>
+        <strong>Start a Project</strong>
+        <div class="footer-links" style="margin-top:12px">
+          <a href="evaluation.html">Request a Property Evaluation</a>
+          <a href="projects.html">View Projects</a>
+          <a href="about.html">How We Work</a>
+        </div>
+      </div>
+    </div>
+    <div class="footer-bottom">
+      <span>© <span data-year></span> Ohio Landcraft. All rights reserved.</span>
+      <span>Thoughtful land solutions. Practical execution.</span>
+    </div>
+  </div>
+</footer>
+<script src="script.js"></script>
+
+</body>
+</html>
