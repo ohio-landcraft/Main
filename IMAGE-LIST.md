@@ -1,45 +1,152 @@
-# Ohio Landcraft Website — Image List
+# Ohio Landcraft Website — Updated Image List
 
-Place finished images in `assets/images/`. The site already references these exact filenames.
+Put the finished images in `assets/images/` using the exact filenames below. The site is already coded to use them.
 
-## Launch Priority
+## Priority 1 — Launch Images
 
-### 1. `home-hero.jpg`
-Homepage hero. Use a beautiful finished Ohio property with land and tree line as the hero; a well-graded gravel driveway, drainage improvement or completed site work can be visible but should not dominate. Wide 16:9, ideally 2400 × 1350 px or larger. Leave the left side relatively calm for text.
+### `home-hero.jpg`
+**Homepage hero.** Best overall image of an attractive Ohio property where a completed improvement feels integrated into the land. A gravel drive, wooded property, improved access or finished grading is ideal.
 
-### 2. `home-approach.jpg`
-Homepage “Start with the land, not the machine.” Best choice is a drone oblique showing the entire property—driveway, terrain, tree line, buildings, drainage paths and/or grading. 1800 × 1500 px or larger.
+- Wide 16:9 or wider.
+- Recommended: 2400 × 1350 px or larger.
+- Keep the left half fairly calm/dark for white text.
+- Property first; equipment second.
 
-### 3. `service-driveway.jpg`
-Driveway service tile and Driveways page hero. Finished gravel driveway with visible crown, edge, ditch or culvert. 2000 × 1400 px or larger.
+### `home-vision.jpg`
+**Homepage “Simple when it’s simple” section.** A whole-property drone oblique or wide ground image showing terrain, access, trees, driveway and/or future-use areas.
 
-### 4. `service-drainage.jpg`
-Drainage tile and page hero. Attractive functional drainage: swale, culvert, clean ditch, stone outlet or controlled water path. 2000 × 1400 px.
+- Recommended: 1800 × 1500 px or larger.
+- Should visually support “understand the property without turning it into a science project.”
 
-### 5. `service-clearing.jpg`
-Land Clearing tile and page hero. Selectively cleared wooded acreage, forestry-mulched edge, trail or reclaimed overgrowth. 2000 × 1400 px. Keep the property natural rather than stripped bare.
+### `service-driveway.jpg`
+**Driveway tile + driveway hero.** Finished gravel driveway showing good shape, edges, ditch or culvert.
 
-### 6. `service-sitework.jpg`
-Site Work tile and page hero. Finished or nearly finished pad, access area or grading project. Equipment may appear, but the finished land should be the subject. 2000 × 1400 px.
+- Recommended: 2000 × 1400 px.
 
-### 7. `about-land.jpg`
-About page. Premium-looking Ohio landscape or improved rural property: rolling land, tree line, driveway through woods, pasture edge or finished outdoor setting. 1800 × 1500 px. This can temporarily reuse `home-approach.jpg`.
+### `service-drainage.jpg`
+**Drainage tile + drainage hero.** Clean, understandable drainage improvement: swale, ditch, culvert, outlet or well-graded surface path.
 
-## First Case Studies
+- Recommended: 2000 × 1400 px.
 
-### 8. `project-driveway-01.jpg`
-Best finished driveway/drainage image. Also capture `project-driveway-01-before.jpg`, `project-driveway-01-detail.jpg`, and `project-driveway-01-aerial.jpg`.
+### `service-clearing.jpg`
+**Clearing tile + clearing hero.** Selectively reclaimed land, forestry-mulched edge, trail or usable wooded space.
 
-### 9. `project-clearing-01.jpg`
-Best finished clearing/reclamation image. Also capture matching before, detail and aerial views.
+- Recommended: 2000 × 1400 px.
+- Avoid a stripped/barren look.
 
-### 10. `project-sitework-01.jpg`
-Best finished grading/pad/site-work image. Also capture matching before, detail and aerial views.
+### `service-sitework.jpg`
+**Site Work tile + site-work hero.** Finished or near-finished grading, pad, access road or trench/site-prep work.
 
-## Photography Style
+- Recommended: 2000 × 1400 px.
+- Equipment is helpful for scale, but should not dominate.
 
-Aim for natural daylight, real Ohio landscapes, moderate contrast, natural greens, finished conditions, drone obliques, clean edges and grading, and equipment as context rather than the hero. Avoid generic stock construction imagery, muddy work-in-progress hero shots, oversaturated HDR and clutter behind text or logos.
+### `about-land.jpg`
+**About page.** Premium-feeling Ohio land/property image. This can temporarily reuse `home-vision.jpg`.
 
-## Job-Site Capture Routine
+- Recommended: 1800 × 1500 px.
 
-For each project, capture 3–5 ground-level before photos, 1 straight-down drone image, 2–4 drone obliques, 2–3 process photos, 5–8 after photos, 2–3 detail photos, a short before video, a short after video, and a note describing what the owner thought was wrong, what Ohio Landcraft found, what was recommended, what was completed and why the solution should perform better long-term.
+### `customer-review.jpg`
+**Homepage + About customer-knowledge section.** Customer and operator/consultant reviewing the property, a plan, tablet, aerial, driveway or work area together.
+
+- Recommended: 1800 × 1500 px.
+- This is important because the new story includes customer involvement and knowledge transfer.
+
+### `right-sized-equipment.jpg`
+**Optional supporting image.** Small excavator/skid steer working efficiently on a residential/rural property without excessive site disturbance.
+
+- Recommended: 1800 × 1200 px.
+- Use later in an equipment-efficiency article or section if desired.
+
+## Priority 2 — 3D Property Planning
+
+### `planning-3d-hero.jpg`
+**Planning & 3D page hero.** Best visual showing a real-world 3D property capture or photogrammetry model with proposed improvements visible.
+
+- Recommended: 2200 × 1400 px.
+- Ideally looks like a real property, not a generic CAD screenshot.
+
+### `planning-existing.jpg`
+Existing 3D capture / existing-condition view.
+
+### `planning-option-a.jpg`
+Same or similar camera position with proposed Option A.
+
+### `planning-option-b.jpg`
+Same or similar camera position with Option B or a future phase.
+
+**Important:** The three comparison images are strongest when the camera angle is identical so the customer can immediately compare them.
+
+### `planning-3d-review.jpg`
+Customer-facing view of a laptop/tablet/large screen displaying the 3D property model during a review conversation.
+
+- Recommended: 1800 × 1400 px.
+
+## Priority 3 — First Case Studies
+
+### `project-driveway-01.jpg`
+Best finished driveway project image.
+
+Also collect:
+- `project-driveway-01-before.jpg`
+- `project-driveway-01-reuse.jpg` — migrated aggregate / reclaimed material if visible
+- `project-driveway-01-detail.jpg`
+- `project-driveway-01-aerial.jpg`
+
+### `project-clearing-01.jpg`
+Best finished selective clearing / reclamation image.
+
+Also collect:
+- `project-clearing-01-before.jpg`
+- `project-clearing-01-detail.jpg`
+- `project-clearing-01-aerial.jpg`
+
+### `project-sitework-01.jpg`
+Best finished or phased grading/site-work image.
+
+Also collect:
+- `project-sitework-01-before.jpg`
+- `project-sitework-01-phase1.jpg`
+- `project-sitework-01-aerial.jpg`
+- `project-sitework-01-future-plan.jpg`
+
+# Photography Style
+
+The brand should feel practical, knowledgeable and premium — not like an equipment catalog.
+
+Prefer:
+- finished conditions,
+- whole-property context,
+- natural Ohio landscapes,
+- drone obliques,
+- equipment as a tool rather than the subject,
+- owner/operator interaction,
+- before/after pairs,
+- photos that explain why a decision was made.
+
+Avoid:
+- generic stock construction photography,
+- repeated close-ups of machines,
+- muddy work-in-progress imagery as hero photography,
+- oversaturated HDR,
+- overly aggressive “heavy equipment” visual language.
+
+# Job-Site Capture Routine
+
+For every future project, try to collect:
+1. 3–5 ground-level before photos.
+2. 1 straight-down drone image.
+3. 2–4 drone obliques.
+4. 2–3 process photos.
+5. 5–8 clean after photos.
+6. 2 detail photos showing why the work functions.
+7. One customer-review / explanation image when appropriate.
+8. One short before video and one short after video.
+9. A short note answering:
+   - What did the owner want?
+   - What options were considered?
+   - What did we reuse?
+   - What did we choose to buy/do and why?
+   - Was the project phased?
+   - What should the owner watch or maintain afterward?
+
+That content can feed the website, Google Business Profile, YouTube, short-form comedy/education videos and future advertising.
