@@ -68,4 +68,4 @@ The FAQ is part of the sales story, not filler. It should answer real customer q
 - customers learn why the work was done and how to maintain it,
 - 3D visualization is optional and used only when it helps the decision.
 
-Use plain customer language and naturally include useful search terms such as gravel driveway repair, grading, drainage, culverts, land clearing, forestry mulching, excavation and site preparation without keyword stuffing.
+Use plain customer language and naturally include useful search terms such as gravel driveway repair, grading, drainage, culverts, brush clearing, land clearing, forestry mulching, property reclamation, trails, excavation and site preparation without keyword stuffing.

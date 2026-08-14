@@ -1,16 +1,16 @@
-# Ohio Landcraft Website — V4
+# Ohio Landcraft Website — V6
 
-V4 keeps the V3 customer-outcome messaging and adds two major website features:
-
-1. **Vimeo background hero video support**
-2. **Homepage FAQ + dedicated FAQ page**
+V6 keeps the customer-outcome messaging, Vimeo hero and FAQ structure, and expands the service architecture with six core service pages plus an always-available service sub-navigation on those pages.
 
 ## Pages
 
 - `index.html` — updated homepage with video hero and FAQ section
 - `driveways.html`
 - `drainage.html`
-- `land-clearing.html`
+- `brush-clearing.html` — Brush Clearing
+- `property-reclamation.html` — Property Reclamation
+- `trails-property-access.html` — Trails & Property Access
+- `land-clearing.html` — legacy redirect to Brush Clearing
 - `excavation-grading.html`
 - `planning-3d.html`
 - `projects.html`
@@ -71,3 +71,17 @@ The dedicated `faq.html` expands this into sections covering:
 ## GitHub Pages
 
 The package is static and can be uploaded directly to a GitHub Pages repository.
+
+
+## Service Navigation
+
+The six core service pages include a secondary navigation bar directly below the main site header:
+
+- Driveways
+- Drainage
+- Brush Clearing
+- Property Reclamation
+- Trails & Property Access
+- Site Work
+
+The bar remains available while scrolling and becomes horizontally scrollable on smaller screens.

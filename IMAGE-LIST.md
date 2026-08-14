@@ -43,10 +43,22 @@ Put the finished images in `assets/images/` using the exact filenames below. The
 - Recommended: 2000 × 1400 px.
 
 ### `service-clearing.jpg`
-**Clearing tile + clearing hero.** Selectively reclaimed land, forestry-mulched edge, trail or usable wooded space.
+**Brush Clearing tile + Brush Clearing hero.** Selectively cleared understory, forestry-mulched edge, fence line or opened wooded space.
 
 - Recommended: 2000 × 1400 px.
 - Avoid a stripped/barren look.
+
+### `service-reclamation.jpg`
+**Property Reclamation tile + hero.** A visibly recovered property area showing the transition from neglected/overgrown ground to clean, usable space. An image with an old lane, field edge, yard or wooded opening works well.
+
+- Recommended: 2000 × 1400 px.
+- Favor a strong “usable again” result rather than a bare cleared site.
+
+### `service-trails.jpg`
+**Trails & Property Access tile + hero.** A well-shaped natural trail, reopened farm/logging lane or compact-equipment route through wooded or rolling Ohio land.
+
+- Recommended: 2000 × 1400 px.
+- Ideally show the route fitting the terrain with limited disturbance.
 
 ### `service-sitework.jpg`
 **Site Work tile + site-work hero.** Finished or near-finished grading, pad, access road or trench/site-prep work.
