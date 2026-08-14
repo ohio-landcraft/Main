@@ -45,3 +45,27 @@ Anyone can sell truckloads, machine hours or acres of clearing. The craft is jud
 ## Tone
 
 Knowledgeable but not academic. Professional but not corporate. Practical rather than clever. Explain the reasoning with examples instead of relying on words like “holistic,” “intentional,” “premium” or “innovative.”
+
+
+## Homepage Hero Video
+
+The hero video should tell the same story without words:
+
+**property → desired outcome → planning → right-sized work → finished result → customer enjoying the improvement**
+
+The video should not feel like an equipment reel. The land and the customer outcome are the hero.
+
+## FAQ Strategy
+
+The FAQ is part of the sales story, not filler. It should answer real customer questions while reinforcing:
+
+- customers can start with an outcome rather than a prescribed service,
+- simple work stays simple,
+- larger ideas can be phased,
+- existing material may be reused,
+- equipment is right-sized to the work,
+- timing can reduce unnecessary cost and disturbance,
+- customers learn why the work was done and how to maintain it,
+- 3D visualization is optional and used only when it helps the decision.
+
+Use plain customer language and naturally include useful search terms such as gravel driveway repair, grading, drainage, culverts, land clearing, forestry mulching, excavation and site preparation without keyword stuffing.

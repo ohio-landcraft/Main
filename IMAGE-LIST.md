@@ -1,4 +1,18 @@
-# Ohio Landcraft Website — Updated Image List
+# Ohio Landcraft Website — Updated Image & Video List
+
+## Hero Video — New in V4
+
+### Vimeo-hosted homepage hero
+The homepage now supports a 15–20 second muted looping **Vimeo background video**.
+
+See **`HERO-VIDEO-BRIEF.md`** for the full storyboard and technical guidance.
+
+The video should communicate:
+**property → customer conversation → planning/3D → right-sized work → finished result → enjoying the property.**
+
+Enter the Vimeo URL in `index.html` as described in `VIMEO-SETUP.md`. If the Vimeo URL is missing/invalid or motion is reduced, the hero automatically falls back to `assets/images/home-hero.jpg`.
+
+---
 
 Put the finished images in `assets/images/` using the exact filenames below. The site is already coded to use them.
 
