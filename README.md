@@ -1,3 +1,7 @@
+# Ohio Landcraft Website Package — V7
+
+This package includes the partner-network / one-stop rural property messaging update. See `CHANGELOG-V7.md` for details.
+
 # Ohio Landcraft Website — V6
 
 V6 keeps the customer-outcome messaging, Vimeo hero and FAQ structure, and expands the service architecture with six core service pages plus an always-available service sub-navigation on those pages.

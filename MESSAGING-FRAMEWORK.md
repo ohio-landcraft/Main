@@ -42,6 +42,28 @@ Anyone can sell truckloads, machine hours or acres of clearing. The craft is jud
 - **We don’t just leave you with the improvement. We leave you understanding it.**
 - **Sometimes the craft is knowing when not to do more.**
 
+## One-Stop Rural Property Partner / Network Model
+
+Ohio Landcraft should be positioned as the **single place a rural property owner can start**, not as a broker and not as a company that must personally own every machine used on every job.
+
+Core story:
+
+- **One property. One point of contact. A wider network of expertise.**
+- Rural property problems often cross driveways, drainage, clearing, excavation, hauling, access, materials and future planning.
+- Some work may be completed through Ohio Landcraft and some may be completed by trusted independent specialty partners. Be transparent about that.
+- The network is a customer benefit because it provides more knowledge, equipment choices and specialist experience.
+- Landcraft helps define the problem, scope the solution, coordinate the right resources and keep the larger property goal in view.
+- Do not imply that every specialty partner is an Ohio Landcraft employee.
+- Do not position subcontracting as an apology. Position it as the mechanism that lets the solution fit the property.
+- The customer should not have to manage the specialty partner; Landcraft remains involved in scope and communication.
+
+Useful lines:
+
+- **One property. One point of contact.**
+- **A one-stop rural property partner backed by a wider network.**
+- **The goal is not to sell you the equipment we happen to own. It is to find the right-sized solution for what you want your property to become.**
+- **One Landcraft relationship. The right people and equipment for the job.**
+
 ## Tone
 
 Knowledgeable but not academic. Professional but not corporate. Practical rather than clever. Explain the reasoning with examples instead of relying on words like “holistic,” “intentional,” “premium” or “innovative.”

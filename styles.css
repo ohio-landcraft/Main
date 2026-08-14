@@ -139,3 +139,7 @@ footer{background:var(--charcoal);color:rgba(255,255,255,.78);padding:68px 0 26p
 @media (prefers-reduced-motion: reduce){
   .hero-vimeo{display:none}
 }
+
+/* Cards placed on dark sections keep their normal light-card text colors. */
+.dark .card{color:var(--text)}
+.dark .card h1,.dark .card h2,.dark .card h3,.dark .card h4{color:var(--charcoal)}
