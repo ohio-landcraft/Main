@@ -89,3 +89,8 @@ The six core service pages include a secondary navigation bar directly below the
 - Site Work
 
 The bar remains available while scrolling and becomes horizontally scrollable on smaller screens.
+
+
+## V8 Audience Paths
+
+This version adds three customer-specific pages and a compact homepage Who We Help section. See `CHANGELOG-V8.md` for details.
