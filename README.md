@@ -1,6 +1,6 @@
-# Ohio Landcraft Website Package — V7
+# Ohio Landcraft Website Package — V9
 
-This package includes the partner-network / one-stop rural property messaging update. See `CHANGELOG-V7.md` for details.
+V9 connects the public property-evaluation workflow to Survey123 and adds Google Analytics (GA4) tracking across every HTML page. See `CHANGELOG-V9.md` for details.
 
 # Ohio Landcraft Website — V6
 
@@ -66,11 +66,10 @@ The dedicated `faq.html` expands this into sections covering:
 
 1. Upload the hero loop to Vimeo and paste its link into `index.html`, or simply launch with the `home-hero.jpg` fallback.
 2. Add the photography listed in `IMAGE-LIST.md`.
-3. Connect/replace `evaluation.html` with the planned Survey123 intake.
-4. Add final phone/email/contact information.
-5. Add real project case studies.
-6. Define any formal warranty or Landcraft Assurance terms before publishing warranty claims.
-7. Add analytics/Search Console.
+3. Add final phone/email/contact information.
+4. Add real project case studies.
+5. Define any formal warranty or Landcraft Assurance terms before publishing warranty claims.
+6. Complete Google Search Console setup and submit `sitemap.xml`.
 
 ## GitHub Pages
 

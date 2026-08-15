@@ -7,8 +7,6 @@ const activeService=document.querySelector('.service-subnav a.active');
 if(activeService){requestAnimationFrame(()=>activeService.scrollIntoView({behavior:'auto',block:'nearest',inline:'center'}));}
 
 document.querySelectorAll('.photo[data-bg]').forEach(el=>{const src=el.getAttribute('data-bg');const img=new Image();img.onload=()=>el.classList.add('loaded');img.src=src;});
-const form=document.querySelector('#evaluation-form');
-if(form){form.addEventListener('submit',e=>{e.preventDefault();const success=document.querySelector('#form-success');if(success)success.hidden=false;});}
 
 // Vimeo homepage hero.
 // Paste a Vimeo URL into the data-vimeo-url attribute on #hero-vimeo in index.html.

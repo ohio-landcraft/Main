@@ -164,3 +164,9 @@ footer{background:var(--charcoal);color:rgba(255,255,255,.78);padding:68px 0 26p
 /* Cards placed on dark sections keep their normal light-card text colors. */
 .dark .card{color:var(--text)}
 .dark .card h1,.dark .card h2,.dark .card h3,.dark .card h4{color:var(--charcoal)}
+
+
+/* Survey123 property evaluation embed */
+.survey-wrap{padding:0;overflow:hidden}
+.survey123-frame{display:block;width:100%;height:1180px;border:0;background:#fff}
+@media(max-width:760px){.survey123-frame{height:1450px}}
