@@ -166,7 +166,9 @@ footer{background:var(--charcoal);color:rgba(255,255,255,.78);padding:68px 0 26p
 .dark .card h1,.dark .card h2,.dark .card h3,.dark .card h4{color:var(--charcoal)}
 
 
-/* Survey123 property evaluation embed */
-.survey-wrap{padding:0;overflow:hidden}
-.survey123-frame{display:block;width:100%;height:1180px;border:0;background:#fff}
-@media(max-width:760px){.survey123-frame{height:1450px}}
+/* Survey123 property evaluation embed — height is set dynamically by the Survey123 JS API. */
+.survey-wrap{padding:0;overflow:visible}
+.survey123-container{width:100%;height:780px;min-height:620px;background:#fff;overflow:hidden;transition:height .15s ease}
+.survey123-container iframe{display:block;width:100%!important;height:100%!important;border:0}
+.survey123-loading,.survey123-fallback{padding:28px;color:var(--muted);background:#fff}
+@media(max-width:760px){.survey123-container{height:900px;min-height:720px}}

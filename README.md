@@ -93,3 +93,7 @@ The bar remains available while scrolling and becomes horizontally scrollable on
 ## V8 Audience Paths
 
 This version adds three customer-specific pages and a compact homepage Who We Help section. See `CHANGELOG-V8.md` for details.
+
+
+## V10 Survey123 integration
+The property evaluation page now uses the Survey123 Web App JavaScript API and dynamically follows the survey's reported content height. See `CHANGELOG-V10.md`.
